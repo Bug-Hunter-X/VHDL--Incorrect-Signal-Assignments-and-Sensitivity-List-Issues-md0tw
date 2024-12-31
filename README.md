@@ -1,0 +1,1 @@
+This repository demonstrates common, yet subtle, errors in VHDL code.  The example focuses on improper signal assignments within processes and the impact of incorrect or incomplete sensitivity lists.  It also highlights the importance of providing a default case in conditional statements to avoid unpredictable behavior.
